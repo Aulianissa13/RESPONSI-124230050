@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'favorite_screen.dart';
+
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});
@@ -13,7 +13,6 @@ class _MainScreenState extends State<MainScreen> {
 
   final List<Widget> _pages = [
     const MainScreen(),
-    const FavoriteScreen(),
   ];
 
   @override

@@ -28,7 +28,7 @@ class _LoginPageState extends State<LoginPage> {
               const Icon(Icons.fastfood, size: 80, color: Colors.orange),
               const SizedBox(height: 20),
               const Text(
-                "Food Recipe App",
+                "Space App",
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 40),
